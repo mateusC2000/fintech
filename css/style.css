@@ -1,0 +1,43 @@
+body {
+  height: 100vh;
+  background: linear-gradient(to bottom, #fff, #000);
+}
+
+.container-login {
+  min-width: 360px;
+}
+
+img {
+  width: 30%;
+  height: 20%;
+}
+
+
+input {
+  background-color: #D9D9D9;
+}
+
+.container-login button {
+  width: 120px;
+  height: 36px;
+  font-size: 12px;
+}
+
+.container button {
+  min-height: 24px;
+  font-size: 12px;
+}
+
+.input-group button {
+  height: 30px;
+  width: 30px;
+}
+
+.input-group input {
+  width: 238px;
+}
+
+button img {
+  width: 36px;
+  height: 20px;
+}
